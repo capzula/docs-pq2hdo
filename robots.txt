@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-t5fcgz.kujang138gold.site/sitemap.xml
